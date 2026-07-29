@@ -26,7 +26,7 @@ upload_date="20260725"
 id="_CRerpCCoIA"
 <br>
 title=""
-<img src="i/20260725+@tsumakonosukatto+つま子のダメ男日記.jpg"/>
+<img src="i/20260725+@tsumakonosukatto+つま子のダメ男日記.jpg" width="120"/>
 
 <br>
 
