@@ -12,7 +12,7 @@ id=""
 <br>
 title=""
 <br>
-<img src="i/" width="240"/>
+// <img src="i/" width="240"/>
 
 <br>
 
