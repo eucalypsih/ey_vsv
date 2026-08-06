@@ -34,6 +34,38 @@ r1080=""
 
 bm="vsvampa_tcncncn"
 <br>
+uploader="Cỏ dại - Nhạc trung channel"
+<br>
+uploader_id="@codainhactrung"
+<br>
+channel_id="UChAGPOCOseoMnPeCsC4dj0A"
+<br>
+upload_date="20260717"
+<br>
+id_type="watch"
+<br>
+id="JTz_M1mqGrI"
+<br>
+title="[Vietsub + Pinyin] Thành Ma - Nguy Ái Tư Hân / 成魔 - 魏爱梓欣 / 一起合唱团 - Nhật Khởi Hợp Xướng Đoàn"
+<br>
+img="<img src="i/20260717+@codainhactrung+Cỏ dại - Nhạc trung channel.jpg" width="240"/>"
+<br>
+fnt="%(upload_date)s+%(uploader_id)s+%(channel_id)s+%(uploader).30B+%(title).170B"
+<br>
+r0144="20260717+@codainhactrung+Cỏ dại - Nhạc trung channel+r144.mp4"
+<br>
+r0240=""
+<br>
+r0480=""
+<br>
+r0720=""
+<br>
+r1080=""
+
+<br>
+
+bm="vsvampa_tcncncn"
+<br>
 uploader="Angel Music"
 <br>
 uploader_id="@Angel-Music957"
