@@ -1,5 +1,3 @@
-https://youtube.com/shorts/qbxq_hWSA7Y?si=T-53K3YE0LpSEh9h
-
 # vsvslhml_tididid
 
 bm="vsvslhml_tididid"
